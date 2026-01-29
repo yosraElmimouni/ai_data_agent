@@ -12,9 +12,9 @@ Ce projet est un prototype d'agent IA capable d'interroger des données métier 
 ##  Stack Technique
 
 - **Backend** : FastAPI
-- **Base de Données** : SQLite (SQLAlchemy ORM)
+- **Base de Données** : SQLite 
 - **Interface** : Streamlit
-- **LLM** : OpenRouter (Modèle Gemini 2.0 Flash par défaut)
+- **LLM** : OpenRouter 
 - **Données** : Faker
 
 ##  Installation
